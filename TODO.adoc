@@ -1,0 +1,8 @@
+= TODO
+- [ ] Add links from website to `adoc` format
+- [ ] Add images from website
+- [ ] Add Travis CI AsciiDoctor build
+- [ ] Register AWS static site (evanoman.com, will need to transfer domain)
+- [ ] Push build to AWS
+- [ ] Refactor www.github.com/EvanOman/Resume to push built PDF to AWS
+- [ ] Remove HostGator site and cancel service
