@@ -1,0 +1,15 @@
+= About Me
+
+Hey there!
+My name is Evan Oman, I am currently a Systems/Algorithm Engineer at Black River Systems Co. where I help develop technical solutions for ISR (Intelligence, Surveillance, and Reconnaissance) defense contracts.
+I have my Masters Degree in Applied Mathematics and I am very interested in Natural Language Processing, Artificial Intelligence, Machine Learning, and Software Development.
+See my complete resume, Github Account, sample projects, and other credentials for more information on my background.
+Outside of my day job I am participating in a few Kaggle Competitions, working my way through Introduction to Statistical Learning, answering questions on Stack Overflow, and always trying to learn something new about math, programming, or Linux.
+Some of my non-professional interests include drinking lots of coffee, motorcycling (I own a 1981 Honda CB 750), reading non-fiction, listening to podcasts, spending time with my wife Aubrey, and taking care of our newborn son, Liam.
+
+I went to Becker High School in central Minnesota where I played football, participated in competitive speech, and met my future wife.
+From there I attended Bethany Lutheran College in Mankato, MN where I studied Mathematics, Computer Science, and Engineering receiving my B.A. degree in Math in 2013, finishing college in only 3 years.
+One of my main occupations at Bethany was Student Senate, where I served as Student Body President for the 2012-2013 school year.
+From 2013-2015 I studied Math and Computer Science at the University of Minnesota-Duluth while working as a TA and later as a Technology Research Assistant.
+In May 2015 I graduated with my Masters of Science in Applied and Computational Mathematics with a minor in Computer Science.
+After graduation I started working at Black River Systems, got married, and moved to Eagan, MN where my wife, my son, my dog, my cat, and I currently reside.

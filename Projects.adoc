@@ -1,0 +1,59 @@
+= Projects
+
+This page contains descriptions of some of the projects I have done during school and during my free time.
+For a full listing of my publicly available code repositories check out my GitHub profile and for some of my papers check out my Research Gate profile.
+
+== Practical Machine Learning Course Project
+
+Web Report and Github Repo.
+
+As part of the Data Science Specialization on Coursera, I took part in the Practical Machine Learning course.
+This project served as the capstone to this course and asked students to classify a participant’s exercise type based on position and accelerator readings from a wearable device.
+I loaded and cleaned the data and then used the Random Forest Algorithm in the caret package to build a classifier which achieved 99% accuracy on my test set.
+The project was completed in R and prepared for web viewing with the KnitR tool.
+
+== Machine Learned Decision Lists for Word Sense Disambiguation
+
+View the code here.
+This project, written in Perl, was an assignment for my graduate level Natural Language Processing course.
+The goal was to implement a decision list to disambiguate two senses of the word “line” using local context.
+I was provided with a training set and a test set to use during my processing.
+Using only a few contextual word collocation factors, my code was able to find the proper word sense 82% of the time.
+See the code itself for more implementation details.
+
+== Dynamical Systems Research
+
+The paper can be accessed here.
+This original work explores the behavior of non-holomorphic, singular perturbations of the Complex Quadratic Family of Maps.
+Ultimately I was able to prove the existence of several infinite accumulations of significant parameter values which exhibited interesting behavior.
+The paper was submitted for partial completion of my Masters of Science Degree in Applied and Computational Mathematics.
+
+== Undergrad Senior Thesis
+
+The paper can be accessed here.
+The paper represents my senior thesis project which was submitted for partial completion of my Bachelors of Arts degree in Mathematics at Bethany Lutheran College.
+
+This paper provides an overview of Computational Homology with a focus on cubical data sets.
+After the mathematical ideas have been established, a tool for the computation of homology is identified and then applied to a few interesting subject areas.
+
+== Tracker Web Client(Edmentum)
+
+Tracker is a free video analysis and modeling tool designed to be used in physics education.
+Tracker video modeling is a powerful way to combine videos with computer modeling based on the Open Source Physics (OSP) Java framework.
+For more information, see the official Tracker website.
+
+Tracker Web Client is an Open Source project I undertook with Chris Harman during our time at Edmentum.
+It allows for the viewing of the original Tracker program files to be achieved through a web browser, rather than through a stand-alone application.
+It requires no flash or browser plugins of any kind, as it is all written in HTML5 and Javascript.
+By modeling a track’s position as it moves across the screen, it is able to calculate more than twenty mathematical properties, such as the object’s velocity, acceleration, momentum, angular velocity and more.
+These parameters are view-able through interactive plots and tables which are linked to video play-through, allowing students to view all these properties in real time as the video progresses.
+
+The Github Repository can be viewed here and a live demo can be seen here.
+
+== Kanban Plugin for Bugzilla(Eckhardt Optics)
+
+The goal of this project was to use Javascript(Jquery), HTML, and PHP to create a GUI for the Bugzilla Bug tracking system that implemented Kanban Development Principles.
+Evan worked on the project independently 4 days a week with the 5th day being spent pair programming with John.
+The project has a GPL license and is therefore free for anyone to use.
+
+The Github Repository can be viewed here, a live demo is still in the works(installing Bugzilla is no small undertaking).
